@@ -1,6 +1,6 @@
 # AllBooks [Usando Git Flow]
 
-Boas-vindas à API do Allbooks, o AllBooks é uma loja virtual que vende livros da Casa do Código. 
+Boas-vindas à API do Allbooks 2, o AllBooks é uma loja virtual que vende livros da Casa do Código. 
 É um MVP que tá só começando e ainda tem muitas funcionalidades novas para serem desenvolvidas.
 
 # JSONServer + JWT Auth
